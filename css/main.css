@@ -123,6 +123,7 @@ nav li a:hover {
   color: #f5f5f5;
   padding: 5em;
   text-align: center;
+  font-size: 14px;
 }
 
 .contact-aqua {
@@ -133,7 +134,6 @@ nav li a:hover {
 }
 
 .contact-info {
-  text-decoration: none;
   text-align: center;
 }
 
