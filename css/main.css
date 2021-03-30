@@ -9,25 +9,25 @@ body {
   padding: 1em;
 }
 
-.navbar .logo {
+.logo {
   text-decoration: none;
   font-weight: bold;
   color: black;
   font-size: 1.2em;
 }
 
-.navbar nav {
+nav {
   display: none;
 }
 
-.navbar .container {
+.container {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   place-content: space-between;
 }
 
-.navbar .mobile-menu {
+.mobile-menu {
   cursor: pointer;
 }
 
@@ -119,6 +119,7 @@ nav li a:hover {
   }
 }
 
+/*info desc*/
 .contact {
   color: #f5f5f5;
   padding: 5em;
@@ -126,6 +127,7 @@ nav li a:hover {
   font-size: 14px;
 }
 
+/* info page title*/
 .contact-aqua {
   color: aquamarine;
   padding: .5em;
