@@ -125,13 +125,16 @@ nav li a:hover {
   text-align: center;
 }
 
-.contact .hrefgit {
-  color: aqua;
-  padding: 24.35em;
+.contact-info {
+  text-decoration: none;
+  text-align: center;
 }
 
-.contact .hrefpgp {
+.hrefgit {
   color: aqua;
-  padding: 24em;
+}
+
+.hrefpgp {
+  color: aqua;
 }
 /*# sourceMappingURL=main.css.map */
