@@ -121,6 +121,17 @@ nav li a:hover {
 
 .contact {
   color: #f5f5f5;
-  text-decoration: none;
+  padding: 5em;
+  text-align: center;
+}
+
+.contact .hrefgit {
+  color: aqua;
+  padding: 24.35em;
+}
+
+.contact .hrefpgp {
+  color: aqua;
+  padding: 24em;
 }
 /*# sourceMappingURL=main.css.map */
