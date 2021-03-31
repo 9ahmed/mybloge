@@ -9,15 +9,16 @@ body {
 
 h1, h2  {line-height: 1.2em}
 hr	{border: 2px solid #000}
-a       {color: #000}
+a       {color: #1e4147}
 a       {text-decoration: none}
 
 .title-main {
-    color: rgb(93, 91, 91);
+    color: #d3704c;
 }
 
 .posts {
     padding-left: 20px;
     padding-top: 5px;
     :hover {text-decoration: underline;}
+    color: #1e4147;
 }

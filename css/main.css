@@ -16,7 +16,7 @@ hr {
 }
 
 a {
-  color: #000;
+  color: #1e4147;
 }
 
 a {
@@ -24,12 +24,13 @@ a {
 }
 
 .title-main {
-  color: #5d5b5b;
+  color: #d3704c;
 }
 
 .posts {
   padding-left: 20px;
   padding-top: 5px;
+  color: #1e4147;
 }
 
 .posts :hover {
