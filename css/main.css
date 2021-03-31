@@ -34,6 +34,10 @@ a {
   color: #65514c;
 }
 
+.current {
+  color: #fff;
+}
+
 .home-text {
   color: #f85e5e;
   font-size: 18px;
@@ -53,4 +57,5 @@ a {
 }
 
 /* d3704c*/
+/*rgb(248, 94, 94); */
 /*# sourceMappingURL=main.css.map */
