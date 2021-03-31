@@ -4,37 +4,41 @@ body {
     max-width: 50em;
     margin: 1em auto;
     padding: 0 5%;
-    font-family: 'monospace';
+    font-family: 'cascadia';
 }
 
 h1, h2  {line-height: 1.2em}
-hr	{border: 2px solid #000}
-a       {color: #1e4147}
+hr	{border: 1px solid #000}
+a       {color: #65514c}
 a       {text-decoration: none}
 
 .title-main {
-    color: #d3704c;
+    color: #65514c;
 }
 
 .posts {
     padding-left: 20px;
-    padding-top: 5px;
-    :hover {text-decoration: underline;}
-    color: #1e4147;
+    padding-top: 4px;
+    text-decoration: underline;
+    color: #65514c;
 }
 
 .home-text {
-    color: #000;
+    color: rgb(255, 255, 255);
     font-size: 18px;
+    font-weight: bold;
 }
 
 .browse-text {
-    color: #000;
+    color: rgb(255, 255, 255);
     font-size: 18px;
+    font-weight: bold;
 }
 
 .info-text {
-    color: #000;
+    color: #ffffff;
     font-size: 18px;
+    font-weight: bold;
 }
 
+/* d3704c*/

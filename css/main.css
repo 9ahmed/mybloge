@@ -4,7 +4,7 @@ body {
   max-width: 50em;
   margin: 1em auto;
   padding: 0 5%;
-  font-family: 'monospace';
+  font-family: 'cascadia';
 }
 
 h1, h2 {
@@ -12,11 +12,11 @@ h1, h2 {
 }
 
 hr {
-  border: 2px solid #000;
+  border: 1px solid #000;
 }
 
 a {
-  color: #1e4147;
+  color: #65514c;
 }
 
 a {
@@ -24,31 +24,33 @@ a {
 }
 
 .title-main {
-  color: #d3704c;
+  color: #65514c;
 }
 
 .posts {
   padding-left: 20px;
-  padding-top: 5px;
-  color: #1e4147;
-}
-
-.posts :hover {
+  padding-top: 4px;
   text-decoration: underline;
+  color: #65514c;
 }
 
 .home-text {
-  color: #000;
+  color: white;
   font-size: 18px;
+  font-weight: bold;
 }
 
 .browse-text {
-  color: #000;
+  color: white;
   font-size: 18px;
+  font-weight: bold;
 }
 
 .info-text {
-  color: #000;
+  color: #ffffff;
   font-size: 18px;
+  font-weight: bold;
 }
+
+/* d3704c*/
 /*# sourceMappingURL=main.css.map */
