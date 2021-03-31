@@ -1,6 +1,6 @@
 body {
   font: 1.2em/1.4em sans-serif;
-  background: #abbd83;
+  background: #bcd790;
   max-width: 50em;
   margin: 1em auto;
   padding: 0 5%;
@@ -16,7 +16,7 @@ hr {
 }
 
 a {
-  color: #5a5353;
+  color: #000;
 }
 
 a {
@@ -28,7 +28,7 @@ a:hover {
 }
 
 .title-main {
-  color: #5a5353;
+  color: #5e5353;
 }
 
 .posts {
