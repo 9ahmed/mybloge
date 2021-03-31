@@ -35,23 +35,23 @@ a {
 }
 
 .current {
-  color: #65514c;
+  color: #8d6380;
 }
 
 .home-text {
-  color: #f85e5e;
+  color: #d37d7d;
   font-size: 18px;
   font-weight: bold;
 }
 
 .browse-text {
-  color: #f85e5e;
+  color: #d37d7d;
   font-size: 18px;
   font-weight: bold;
 }
 
 .info-text {
-  color: #f85e5e;
+  color: #d37d7d;
   font-size: 18px;
   font-weight: bold;
 }
