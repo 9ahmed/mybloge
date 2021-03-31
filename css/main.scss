@@ -1,6 +1,6 @@
 body {
     font: 1.2em/1.4em sans-serif;
-    background: #dbfb96;
+    background: #abbd83;
     max-width: 50em;
     margin: 1em auto;
     padding: 0 5%;
@@ -15,4 +15,9 @@ a:hover {text-decoration: underline}
 
 .title-main {
     color: #5a5353;
+}
+
+.posts {
+    padding-left: 20px;
+    padding-top: 5px;
 }
