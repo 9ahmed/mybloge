@@ -23,16 +23,16 @@ a {
   text-decoration: none;
 }
 
-a:hover {
-  text-decoration: underline;
-}
-
 .title-main {
-  color: #5e5353;
+  color: #5d5b5b;
 }
 
 .posts {
   padding-left: 20px;
   padding-top: 5px;
+}
+
+.posts :hover {
+  text-decoration: underline;
 }
 /*# sourceMappingURL=main.css.map */

@@ -11,13 +11,13 @@ h1, h2  {line-height: 1.2em}
 hr	{border: 2px solid #000}
 a       {color: #000}
 a       {text-decoration: none}
-a:hover {text-decoration: underline}
 
 .title-main {
-    color: rgb(94, 83, 83);
+    color: rgb(93, 91, 91);
 }
 
 .posts {
     padding-left: 20px;
     padding-top: 5px;
+    :hover {text-decoration: underline;}
 }
