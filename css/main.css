@@ -1,6 +1,6 @@
 body {
   font: 1.2em/1.4em sans-serif;
-  background: #bcd790;
+  background: #b6cf8e;
   max-width: 50em;
   margin: 1em auto;
   padding: 0 5%;
@@ -35,7 +35,7 @@ a {
 }
 
 .current {
-  color: #fff;
+  color: #65514c;
 }
 
 .home-text {
