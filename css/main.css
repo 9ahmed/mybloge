@@ -44,25 +44,18 @@ a {
   color: #3c555f;
   font-size: 19px;
   font-weight: bold;
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0;
 }
 
 .browse-text {
   color: #3c555f;
   font-size: 19px;
   font-weight: bold;
-  position: -webkit-sticky;
-  position: sticky;
 }
 
 .info-text {
   color: #3c555f;
   font-size: 19px;
   font-weight: bold;
-  position: -webkit-sticky;
-  position: sticky;
 }
 
 .contact-aqua {
