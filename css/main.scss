@@ -15,11 +15,13 @@ a       {text-decoration: none}
     color: #65514c;
 }
 
+}
 .posts {
     padding-left: 20px;
     padding-top: 4px;
     text-decoration: underline;
     color: #65514c;
+    
 }
 .current {
     color: #3c555f;
@@ -71,4 +73,8 @@ a       {text-decoration: none}
 .hrefpgp {
     color: #3b2d2a;
     text-decoration: underline;
+}
+
+.blog-context {
+    text-decoration: none;
 }
