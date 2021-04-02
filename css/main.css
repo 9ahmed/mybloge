@@ -15,7 +15,12 @@ hr {
 }
 
 a {
-  color: #65514c;
+  color: #3c555f;
+}
+
+/* main blog links color */
+a {
+  font-size: 17.8px;
 }
 
 a {
@@ -23,7 +28,7 @@ a {
 }
 
 .title-main {
-  color: #65514c;
+  color: #43302c;
 }
 
 .posts {
@@ -31,7 +36,7 @@ a {
   padding-top: 2px;
   margin: 7px;
   margin-right: 3px;
-  color: #65514c;
+  color: #43302c;
   text-decoration: underline;
 }
 
@@ -69,6 +74,7 @@ a {
 .contact-aqua {
   text-align: left;
   color: #dd5252;
+  /* contact title main color */
   padding-left: 1px;
   padding-top: .4px;
   padding-bottom: 1px;
@@ -94,13 +100,16 @@ a {
 }
 
 .post-title {
+  color: #3c555f;
+  /* homepage index dot color */
   text-decoration: underline;
-  color: #c16f6f;
 }
 
 .blog-context {
-  color: #65514c;
-  font-style: oblique;
+  color: #43302c;
+  /* blog description color*/
+  font-size: 17px;
+  /*font-style: oblique;*/
 }
 
 .post-title {
