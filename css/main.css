@@ -1,6 +1,6 @@
 body {
-  font: 1.2em/1.4em sans-serif;
-  background: #b6cf8e;
+  font: 1.2em/1.4em 'cascadia';
+  background: #acbb94;
   margin: 1em auto;
   padding: 0 5%;
   font-family: 'cascadia';
@@ -40,15 +40,9 @@ a {
   text-decoration: underline;
 }
 
-.current {
-  color: #3c555f;
-  font-weight: bold;
-  font-size: 18px;
-}
-
 .home-text {
   color: #3c555f;
-  font-size: 18px;
+  font-size: 19px;
   font-weight: bold;
   position: -webkit-sticky;
   position: sticky;
@@ -57,7 +51,7 @@ a {
 
 .browse-text {
   color: #3c555f;
-  font-size: 18px;
+  font-size: 19px;
   font-weight: bold;
   position: -webkit-sticky;
   position: sticky;
@@ -65,7 +59,7 @@ a {
 
 .info-text {
   color: #3c555f;
-  font-size: 18px;
+  font-size: 19px;
   font-weight: bold;
   position: -webkit-sticky;
   position: sticky;
@@ -109,7 +103,6 @@ a {
   color: #43302c;
   /* blog description color*/
   font-size: 17px;
-  /*font-style: oblique;*/
 }
 
 .post-title {
@@ -124,6 +117,6 @@ header {
   position: -webkit-sticky;
   position: sticky;
   top: 0;
-  background: #b6cf8e;
+  background: #acbb94;
 }
 /*# sourceMappingURL=main.css.map */

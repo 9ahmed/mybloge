@@ -1,6 +1,6 @@
 body {
-    font: 1.2em/1.4em sans-serif;
-    background: #b6cf8e;
+    font: 1.2em/1.4em 'cascadia';
+    background: #acbb94;
     margin: 1em auto;
     padding: 0 5%;
     font-family: 'cascadia';
@@ -25,29 +25,25 @@ a       {text-decoration: none}
     text-decoration: underline;
     
 }
-.current {
-    color: #3c555f;
-    font-weight: bold;
-    font-size: 18px;
-}
+
 
 .home-text {
     color: #3c555f;
-    font-size: 18px;
+    font-size: 19px;
     font-weight: bold;
     position: sticky; top: 0;
 }
 
 .browse-text {
     color: #3c555f;
-    font-size: 18px;
+    font-size: 19px;
     font-weight: bold;
     position: sticky;
 }
 
 .info-text {
     color: #3c555f;
-    font-size: 18px;
+    font-size: 19px;
     font-weight: bold;
     position: sticky;
 }
@@ -89,7 +85,6 @@ a       {text-decoration: none}
 .blog-context {
     color: #43302c; /* blog description color*/
     font-size: 17px;
-    /*font-style: oblique;*/
 }
 
 .post-title {list-style-position: inside;}
@@ -97,4 +92,5 @@ a       {text-decoration: none}
 .main {
     max-width: 50;
 }
-header {position: sticky; top: 0; background: #b6cf8e;}
+header {position: sticky; top: 0; background: #acbb94;}
+
