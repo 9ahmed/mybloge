@@ -1,7 +1,6 @@
 body {
     font: 1.2em/1.4em sans-serif;
     background: #b6cf8e;
-    max-width: 50em;
     margin: 1em auto;
     padding: 0 5%;
     font-family: 'cascadia';
@@ -90,6 +89,6 @@ a       {text-decoration: none}
 }
 
 .main {
-    max-width: none;
+    max-width: 50em;
 }
 header {position: sticky; top: 0; background: #b6cf8e;}
