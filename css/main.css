@@ -102,6 +102,10 @@ a {
   font-style: oblique;
 }
 
+.main {
+  max-width: none;
+}
+
 header {
   position: -webkit-sticky;
   position: sticky;
