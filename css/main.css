@@ -27,15 +27,11 @@ a {
   color: #65514c;
 }
 
-.blog-contextd {
-  text-decoration: none;
-}
-
 .posts {
   padding-left: 20px;
   padding-top: 4px;
-  text-decoration: underline;
   color: #65514c;
+  text-decoration: underline;
 }
 
 .current {
@@ -89,7 +85,12 @@ a {
   text-decoration: underline;
 }
 
+.post-title {
+  text-decoration: underline;
+}
+
 .blog-context {
-  text-decoration: none;
+  color: #65514c;
+  font-style: oblique;
 }
 /*# sourceMappingURL=main.css.map */
