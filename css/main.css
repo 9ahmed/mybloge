@@ -29,6 +29,12 @@ a {
 
 .title-main {
   color: #43302c;
+  padding-bottom: 4px;
+  margin-top: 25px;
+  margin-bottom: 23px;
+  /* space inbetween "Posts" and first blog title*/
+  font-weight: bold;
+  font-size: 30px;
 }
 
 .posts {
