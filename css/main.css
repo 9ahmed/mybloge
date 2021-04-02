@@ -58,10 +58,30 @@ a {
   font-weight: bold;
 }
 
-.svg {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+.contact-aqua {
+  text-align: left;
+  color: #dd5252;
+  padding-left: 1px;
+  padding-top: .4px;
+  padding-bottom: 1px;
+  margin-top: 2px;
+  text-decoration: underline;
+}
+
+.contact {
+  text-align: left;
+  padding-left: 4px;
+  padding-top: 5px;
+  color: #3b2d2a;
+}
+
+.hrefgit {
+  color: #3b2d2a;
+  text-decoration: underline;
+}
+
+.hrefpgp {
+  color: #3b2d2a;
+  text-decoration: underline;
 }
 /*# sourceMappingURL=main.css.map */
