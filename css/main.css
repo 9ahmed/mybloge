@@ -127,6 +127,11 @@ header img {
   float: right;
 }
 
+.back-home-site {
+  align-text: center;
+  color: lime;
+}
+
 * {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
