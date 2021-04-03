@@ -127,11 +127,6 @@ header img {
   float: right;
 }
 
-.back-home-site {
-  align-text: center;
-  color: lime;
-}
-
 * {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
@@ -145,6 +140,7 @@ input[type=text], select, textarea {
   margin-top: 6px;
   margin-bottom: 16px;
   resize: vertical;
+  border-radius: 5px;
 }
 
 input[type=submit] {
@@ -156,7 +152,7 @@ input[type=submit] {
 }
 
 input[type=submit]:hover {
-  background-color: #acbb94;
+  background-color: black;
 }
 
 /* Style the container/contact section */
@@ -164,6 +160,7 @@ input[type=submit]:hover {
   border-radius: 5px;
   background-color: #acbb94;
   padding: 10px;
+  color: #3b2d2a;
 }
 
 /* Create two columns that float next to eachother */

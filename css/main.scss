@@ -99,10 +99,7 @@ header {position: sticky; top: 0; background: #acbb94;}
 header img {vertical-align: bottom;}
 header img {float: right;}
 
-.back-home-site {
-  align-text: center;
-  color: rgb(0, 255, 0);
-}
+
 
 
 
@@ -118,6 +115,7 @@ header img {float: right;}
     margin-top: 6px;
     margin-bottom: 16px;
     resize: vertical;
+    border-radius: 5px;
   }
   
   input[type=submit] {
@@ -129,7 +127,7 @@ header img {float: right;}
   }
   
   input[type=submit]:hover {
-    background-color: #acbb94;
+    background-color: black;
   }
   
   /* Style the container/contact section */
@@ -137,6 +135,7 @@ header img {float: right;}
     border-radius: 5px;
     background-color: #acbb94;
     padding: 10px;
+    color: #3b2d2a;
   }
   
   /* Create two columns that float next to eachother */
