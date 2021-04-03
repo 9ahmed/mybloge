@@ -119,7 +119,7 @@ header {
   background: #acbb94;
 }
 
-.rss-image {
-  margin-top: 3px;
+header img {
+  vertical-align: bottom;
 }
 /*# sourceMappingURL=main.css.map */
