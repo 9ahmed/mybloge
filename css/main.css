@@ -28,7 +28,7 @@ a {
 }
 
 .title-main {
-  color: #AA2E00;
+  color: #43302c;
   padding-bottom: 4px;
   margin-top: 25px;
   margin-bottom: 23px;
@@ -121,6 +121,10 @@ header {
 
 header img {
   vertical-align: bottom;
+}
+
+header img {
+  float: right;
 }
 
 * {
