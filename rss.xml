@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Homepage</title>
+  <link>https://www.syedahmedblogs.cf</link>
+  <description>Bringing you valuable information</description>
+  <item>
+    <title>Info</title>
+    <link>https://www.syedahmedblogs.cf/info.html</link>
+    <description>My contact information</description>
+  </item>
+  <item>
+    <title>Browse</title>
+    <link>https://www.syedahmedblogs.cf/browse.html</link>
+    <description>Categorically browse the various blogs ive written easily</description>
+  </item>
+</channel>
+
+</rss>
