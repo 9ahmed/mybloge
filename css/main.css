@@ -1,188 +1,206 @@
 body {
-  font: 1.2em/1.4em 'cascadia';
-  background: #acbb94;
-  margin: 1em auto;
-  padding: 0 5%;
-  font-family: 'cascadia';
+    font: 1.2em/1.4em 'cascadia';
+    background: #acbb94;
+    margin: 1em auto;
+    padding: 0 5%;
+    font-family: 'cascadia';
 }
 
-h1, h2 {
-  line-height: 1.2em;
+h1,
+h2 {
+    line-height: 1.2em;
 }
 
 hr {
-  border: 1px solid #000;
+    border: 1px solid #000;
 }
 
 a {
-  color: #3c555f;
+    color: #3c555f;
 }
+
 
 /* main blog links color */
+
 a {
-  font-size: 17.8px;
+    font-size: 17.8px;
 }
 
 a {
-  text-decoration: none;
+    text-decoration: none;
 }
 
 .title-main {
-  color: #554a46;
-  padding-top: 4px;
-  margin-top: 25px;
-  margin-bottom: 34px;
-  /* space inbetween "Posts" and first blog title*/
-  font-weight: bold;
-  font-size: 30px;
+    color: #554a46;
+    padding-top: 4px;
+    margin-top: 25px;
+    margin-bottom: 34px;
+    /* space inbetween "Posts" and first blog title*/
+    font-weight: bold;
+    font-size: 30px;
 }
 
 .posts {
-  padding-left: 20px;
-  padding-top: 2px;
-  margin: 7px;
-  margin-right: 3px;
-  color: #43302c;
-  text-decoration: underline;
+    padding-left: 20px;
+    padding-top: 2px;
+    margin: 7px;
+    margin-right: 3px;
+    color: #43302c;
+    text-decoration: underline;
 }
 
 .home-text {
-  color: #3c555f;
-  font-size: 19px;
-  font-weight: bold;
+    color: #3c555f;
+    font-size: 19px;
+    font-weight: bold;
 }
 
 .browse-text {
-  color: #3c555f;
-  font-size: 19px;
-  font-weight: bold;
+    color: #3c555f;
+    font-size: 19px;
+    font-weight: bold;
 }
 
 .info-text {
-  color: #3c555f;
-  font-size: 19px;
-  font-weight: bold;
+    color: #3c555f;
+    font-size: 19px;
+    font-weight: bold;
 }
 
 .contact-aqua {
-  text-align: left;
-  color: #dd5252;
-  /* contact title main color */
-  padding-left: 1px;
-  padding-top: .4px;
-  padding-bottom: 1px;
-  margin-top: 2px;
-  text-decoration: underline;
+    text-align: left;
+    color: #dd5252;
+    /* contact title main color */
+    padding-left: 1px;
+    padding-top: .4px;
+    padding-bottom: 1px;
+    margin-top: 2px;
+    text-decoration: underline;
 }
 
 .contact {
-  text-align: left;
-  padding-left: 4px;
-  padding-top: 5px;
-  color: #3b2d2a;
+    text-align: left;
+    padding-left: 4px;
+    padding-top: 5px;
+    color: #3b2d2a;
 }
 
 .hrefgit {
-  color: #3b2d2a;
-  text-decoration: underline;
+    color: #3b2d2a;
+    text-decoration: underline;
 }
 
 .hrefpgp {
-  color: #3b2d2a;
-  text-decoration: underline;
+    color: #3b2d2a;
+    text-decoration: underline;
 }
 
 .post-title {
-  color: #3c555f;
-  /* homepage index dot color */
-  text-decoration: underline;
+    color: #3c555f;
+    /* homepage index dot color */
+    text-decoration: underline;
 }
 
 .blog-context {
-  color: #43302c;
-  /* blog description color*/
-  font-size: 17px;
+    color: #43302c;
+    /* blog description color*/
+    font-size: 17px;
 }
 
 .post-title {
-  list-style-position: inside;
+    list-style-position: inside;
 }
 
 .main {
-  max-width: 50;
+    max-width: 50;
 }
 
 header {
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0;
-  background: #acbb94;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    background: #acbb94;
 }
 
 header img {
-  vertical-align: bottom;
+    vertical-align: bottom;
 }
 
 header img {
-  float: right;
+    float: right;
 }
 
 * {
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
 }
 
+
 /* Style inputs */
-input[type=text], select, textarea {
-  width: 100%;
-  padding: 12px;
-  border: 1px solid #ccc;
-  margin-top: 6px;
-  margin-bottom: 16px;
-  resize: vertical;
-  border-radius: 5px;
+
+input[type=text],
+select,
+textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+    border-radius: 5px;
 }
 
 input[type=submit] {
-  background-color: #3c555f;
-  color: white;
-  padding: 12px 20px;
-  border: none;
-  cursor: pointer;
+    background-color: #3c555f;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
 }
 
 input[type=submit]:hover {
-  background-color: black;
+    background-color: black;
 }
+
 
 /* Style the container/contact section */
+
 .container {
-  border-radius: 5px;
-  background-color: #acbb94;
-  padding: 10px;
-  color: #3b2d2a;
+    border-radius: 5px;
+    background-color: #acbb94;
+    padding: 10px;
+    color: #3b2d2a;
 }
+
 
 /* Create two columns that float next to eachother */
+
 .column {
-  float: left;
-  width: 50%;
-  margin-top: 6px;
-  padding: 20px;
+    float: left;
+    width: 50%;
+    margin-top: 6px;
+    padding: 20px;
 }
+
 
 /* Clear floats after the columns */
+
 .row:after {
-  content: "";
-  display: table;
-  clear: both;
+    content: "";
+    display: table;
+    clear: both;
 }
 
+
 /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+
 @media screen and (max-width: 600px) {
-  .column, input[type=submit] {
-    width: 100%;
-    margin-top: 0;
-  }
+    .column,
+    input[type=submit] {
+        width: 100%;
+        margin-top: 0;
+    }
 }
+
+
 /*# sourceMappingURL=main.css.map */
