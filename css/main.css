@@ -200,5 +200,7 @@ input[type=submit]:hover {
 .blog-text1 {
   color: #000000;
   text-align: left;
+  font-size: 16px;
+  padding-top: 15px;
 }
 /*# sourceMappingURL=main.css.map */
