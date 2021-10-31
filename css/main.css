@@ -101,6 +101,7 @@ a {
   color: #000000;
   /* homepage index dot color */
   text-decoration: underline;
+  text-align: left;
 }
 
 .blog-context {
