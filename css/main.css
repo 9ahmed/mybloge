@@ -80,7 +80,7 @@ a {
   text-align: left;
   padding-left: 4px;
   padding-top: 5px;
-  color: #3b2d2a;
+  color: #000000;
 }
 
 .hrefgit {
@@ -89,18 +89,18 @@ a {
 }
 
 .hrefpgp {
-  color: #3b2d2a;
+  color: #000000;
   text-decoration: underline;
 }
 
 .post-title {
-  color: #3c555f;
+  color: #000000;
   /* homepage index dot color */
   text-decoration: underline;
 }
 
 .blog-context {
-  color: #43302c;
+  color: #000000;
   /* blog description color*/
   font-size: 17px;
 }
@@ -147,7 +147,7 @@ textarea {
 }
 
 input[type=submit] {
-  background-color: #3c555f;
+  background-color: #fafafa;
   color: white;
   padding: 12px 20px;
   border: none;
@@ -161,7 +161,7 @@ input[type=submit]:hover {
 /* Style the container/contact section */
 .container {
   border-radius: 5px;
-  background-color: #acbb94;
+  background-color: #fafafa;
   padding: 10px;
   color: #3b2d2a;
 }
@@ -191,7 +191,7 @@ input[type=submit]:hover {
 }
 
 .blog-title1 {
-  color: #3b2d2a;
+  color: #000000;
   text-align: center;
   font-size: 23px;
   padding-top: 20px;
