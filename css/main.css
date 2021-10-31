@@ -19,7 +19,7 @@ hr {
 }
 
 a {
-  color: #3c555f;
+  color: #59a2e1;
 }
 
 /* main blog links color */
@@ -32,7 +32,7 @@ a {
 }
 
 .title-main {
-  color: #000000;
+  color: #59a2e1;
   padding-top: 4px;
   margin-top: 25px;
   margin-bottom: 34px;
@@ -51,13 +51,13 @@ a {
 }
 
 .home-text {
-  color: #3c555f;
+  color: #59a2e1;
   font-size: 19px;
   font-weight: bold;
 }
 
 .browse-text {
-  color: #3c555f;
+  color: #59a2e1;
   font-size: 19px;
   font-weight: bold;
 }
@@ -70,7 +70,7 @@ a {
 
 .contact-aqua {
   text-align: left;
-  color: #dd5252;
+  color: #59a2e1;
   /* contact title main color */
   padding-left: 1px;
   padding-top: .4px;
