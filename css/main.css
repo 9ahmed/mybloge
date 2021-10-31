@@ -1,9 +1,12 @@
 body {
-  font: 1.2em/1.4em 'cascadia';
   background: #fafafa;
-  margin: 1em auto;
-  padding: 0 5%;
-  font-family: 'cascadia';
+  color: #383a42;
+  font-family: serif;
+  line-height: 160%;
+  font-size: 17.5px;
+	margin-left: 14rem;
+  padding: 20px;
+  max-width: 950px;
 }
 
 h1,
