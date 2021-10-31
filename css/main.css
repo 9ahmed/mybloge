@@ -32,7 +32,7 @@ a {
 }
 
 .title-main {
-  color: #59a2e1;
+  color: #000000;
   padding-top: 4px;
   margin-top: 25px;
   margin-bottom: 34px;
@@ -63,7 +63,7 @@ a {
 }
 
 .info-text {
-  color: #3c555f;
+  color: #59a2e1;
   font-size: 19px;
   font-weight: bold;
 }
