@@ -1,6 +1,6 @@
 body {
   font: 1.2em/1.4em 'cascadia';
-  background: #acbb94;
+  background: #fafafa;
   margin: 1em auto;
   padding: 0 5%;
   font-family: 'cascadia';
@@ -29,7 +29,7 @@ a {
 }
 
 .title-main {
-  color: #554a46;
+  color: #000000;
   padding-top: 4px;
   margin-top: 25px;
   margin-bottom: 34px;
@@ -43,7 +43,7 @@ a {
   padding-top: 2px;
   margin: 7px;
   margin-right: 3px;
-  color: #43302c;
+  color: #000000;
   text-decoration: underline;
 }
 
