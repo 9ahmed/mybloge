@@ -51,19 +51,19 @@ a {
 }
 
 .home-text {
-  color: #59a2e1;
+  color: #383a42;
   font-size: 19px;
   font-weight: bold;
 }
 
 .browse-text {
-  color: #59a2e1;
+  color: #383a42;
   font-size: 19px;
   font-weight: bold;
 }
 
 .info-text {
-  color: #59a2e1;
+  color: #383a42;
   font-size: 19px;
   font-weight: bold;
 }
@@ -103,7 +103,7 @@ a {
 }
 
 .blog-context {
-  color: #000000;
+  color: #000;
   /* blog description color*/
   font-size: 17px;
 }
